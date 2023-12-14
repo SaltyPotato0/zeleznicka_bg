@@ -1,0 +1,14 @@
+#: locale=en
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Železnička stanica BEOGRAD CENTAR
